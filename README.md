@@ -1,8 +1,8 @@
 # Cooking Recipes
 
-<img width="176" height="198" alt="17674390158481232060142940522087" src="https://github.com/user-attachments/assets/766efe94-7361-49a3-b2b0-2f3705d0e15e" />
+## Blueberry Friands
 
-## Blueberry Frianss
+<img width="176" height="198" alt="17674390158481232060142940522087" src="https://github.com/user-attachments/assets/766efe94-7361-49a3-b2b0-2f3705d0e15e" />
 
 Serves 6 muffins
 
@@ -33,9 +33,9 @@ These blueberry friands are great, a bit like muffins but more solid and stocky.
 4. Divide the batter between the tins. Sprinkle a handful of blueberries over each cake and bake for 15-20min or until just firm to the touch and golden brown. Cool in the tins for 5 min, then turn out and cool on a wire rack.
 5. To serve, dust lightly with icing sugar
 
-<img width="250" src="https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670" />
-
 ## Baked Blueberry Cheesecake 
+
+<img width="250" src="https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670" />
 
 Serves 8 people.
 
@@ -78,3 +78,112 @@ Just before pouring cheesecake mix into tin, add blueberries over the top and st
 Bake in oven at 160-180 deg for 50 mins or until top starts turning brown. Turn oven off and leave cake in oven for another 10-15 min.
 
 Refrigerate and ATTACK!
+
+## Galaktoboureko
+
+<img width="240" height="180" alt="galaktoboureko" src="https://gist.github.com/user-attachments/assets/ff23e69a-6ffc-48cf-9085-59e288ead6cd" />
+
+Serves 10 people.
+
+### Total Cooking Time: 90 minutes
+
+This is simply the yummiest pastry cake to have with coffee. I made one yesterday and had a couple pieces today. If you''ve never had a food orgasm I recommend you try this ASAP. This recipe makes about 12-18 pieces. They are so rich you wont be able to eat more than 1 or 2 a day.
+
+### Ingredients (filling):
+
+*   4 eggs
+*   1 cup of sugar
+*   1 cup of semolina (fine grind), cream of wheat, or rice flour
+*   1/2 lemon peel - grated
+*   1 tablespoon of lemon juice
+*   1 litre of whole milk
+*   1/2 - 1 cup of butter, melted
+*   1 packet of filo pastry sheets
+*   1 teaspoon of vainilla syrup.
+
+### Ingredients (syrup):
+
+*   1 1/3 cups of sugar
+*   1 cup of water
+*   1 1/2 tablespoons of lemon juice
+*   1 slice of lemon peel
+*   2 tablespoons of honey
+
+### You''ll also need:
+
+*   A cooking brush
+*   Blender or food processor
+*   28-30cm wide oven tray (tin/glass/clay)
+*   A VERY sharp knife or scissors (to cut through the pastry)
+
+Make sure you defrost the filo pastry overnight before you start.
+
+### STEP 1) Prepare the syrup
+
+Mix the water and sugar in a saucepan on medium fire until the sugar has been disolved. Add 2 tablespoons of honey and a slice of lemon peel. Turn the fire on low and let it simmer for 5-10 minutes. Set aside away from heat to let it cool and pour squeezed lemon juice on top.  
+
+<img width="160" height="120" alt="gal_custard_ready_499" src="https://gist.github.com/user-attachments/assets/fc6286d0-14d7-45d2-8205-31df89c3d80d" />
+
+### STEP 2) Prepare the filling
+
+You''ll need a blender of food processor. First blend 2 eggs with half the sugar, then the other 2 eggs with the rest of the sugar and keep blending on high setting for 2 minutes until fluffy. Add the vainilla syrup, semolina, lemon juice and grated lemon peel. Continue blending and add 2 tablespoons of butter and the milk. Blend for 5 minutes.
+
+Preheat the oven to 180C.
+
+Pour the blended filling into a saucepan on low fire and keep stirring while the mix warms up and starts becoming thicker. Keep stirring vigorously until consistency becomes that of a thick white sauce. Remove from heat and set aside.
+
+### STEP 3) Prepare the cake.
+
+Count the fillo sheets and set half for the botom and half for the top. Melt 1/2 cup of butter and brush the bottom and sides of the tray with it.
+
+Put the first fillo sheet on the tray brushing over it with more butter. Add the next sheet and brush butter over it again. Repeat the process until half of the sheets are layed out on the bottom with melted butter brushed over each one.
+
+<img width="160" height="132" alt="gal_tuck_edges1_499" src="https://gist.github.com/user-attachments/assets/a7a13d92-7e34-451a-acd7-14b1b2efc575" />
+
+Pour the filling over the sheets and fold over the top sheet over it, brushing it with butter so the next sheet sticks to it. Then add the next sheet brushing it with butter again and keep going until all the bottom sheets have been done.
+ 
+Continue by setting the top sheets one by one brushing lightly with butter one after another. Then fold the top sheets over buttering again until there are no sheets haging out from the sides of the pan.
+
+<img width="160" height="144" alt="gal_sec_finish_499" src="https://gist.github.com/user-attachments/assets/b360d67b-89ee-45ac-81d0-39cfbb5d1d3c" />
+
+### STEP 4) Cut the pieces, bake, pour syrup and eat!
+
+Most of the hard work is done now. Cut through the pastry dividing the cake into 12-18 pieces BEFORE you put in the oven, this is hard to do and does not need to be perfect, you may use a sharp knife or scissors. 
+
+The oven should be hot enough now. Place and cook for 30-40 minutes or until golden on top.
+
+Pour the syrup over the hot cake making sure it goes on the sides and between the pieces, this will be soaked up creating a thick sweet crust. At this point you may also add some cinnamon powder on top for decoration. Let it cool before eating. 
+
+<img width="160" height="156" alt="gal_syrup_499" src="https://gist.github.com/user-attachments/assets/7daa08a2-4724-4c17-a440-e03368db1c4a" />
+
+Prepare a cup of delicious espresso and.. ATTACK!
+
+## Gravalax
+
+<img width="240" height="159" alt="Gravalax" src="https://gist.github.com/user-attachments/assets/da56e889-be57-47c7-b7e2-05f103af7e9d" />
+
+Serves 6 people.
+
+### Total Cooking Time: Several Days
+
+This is my mum''s recipe for cured salmon. It tastes a bit like smoked salmon but sweeter and with a strong taste of dill and pepper.
+
+**Ingredients:**
+
+*   1 fillet of salmon (half a fish)
+*   1/2 cup of salt
+*   12/ cup of sugar
+*   1 cup of chopped dill
+*   2 tablespoons of black pepper
+
+Lay out the salmon, once cleaned and boned, on a long sheet of cling film. Powder it with the salt and sugar, adding chopped dill and black pepper. 
+
+Cover it with the cling film and add another 2 layers of cling film to make sure any juices that come out dont spill over.
+
+Place it in a plastic bag and put it flat on the fridge for 2-4 days, depending on how strong you like it. 
+
+**WAIT 2-4 DAYS**
+
+After the first round of curing. Clean up the salmon and repeat the process above with new round of salt, sugar and dill/pepper. Place it in the fridge again for 1 more day.
+
+Take out of the fridge, clean again. Serve by cutting into very thin slices with some lemon and cream cheese.
