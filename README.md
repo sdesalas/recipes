@@ -75,7 +75,7 @@ Just before pouring cheesecake mix into tin, add blueberries over the top and st
 
 Bake in oven at 180-200 deg for 50 mins or until top starts turning brown. 
 
-Turn oven off and leave cake in oven for another 10-20 min.
+Turn oven off and leave cake in oven for another 20-30 min.
 
 Refrigerate and ATTACK!
 
