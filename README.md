@@ -1,10 +1,8 @@
-# Cooking Recipes
-
 ## Blueberry Friands
 
 <img width="176" height="198" alt="17674390158481232060142940522087" src="https://github.com/user-attachments/assets/766efe94-7361-49a3-b2b0-2f3705d0e15e" />
 
-Serves 6 muffins
+_Serves 6 muffins_
 
 ### Total time: 40min
 
@@ -37,7 +35,7 @@ These blueberry friands are great, a bit like muffins but more solid and stocky.
 
 <img width="250" src="https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670" />
 
-Serves 8 people.
+_Serves 8 people._
 
 ### Total Cooking Time: 1½ hours
 
@@ -81,9 +79,9 @@ Refrigerate and ATTACK!
 
 ## Galaktoboureko
 
-<img width="240" height="180" alt="galaktoboureko" src="https://gist.github.com/user-attachments/assets/ff23e69a-6ffc-48cf-9085-59e288ead6cd" />
+<img width="240" height="180" alt="galaktoboureko" src="https://github.com/user-attachments/assets/ce832a64-2d40-4185-bc24-e66d4d4d698e" />
 
-Serves 10 people.
+_Serves 10 people._
 
 ### Total Cooking Time: 90 minutes
 
@@ -122,7 +120,7 @@ Make sure you defrost the filo pastry overnight before you start.
 
 Mix the water and sugar in a saucepan on medium fire until the sugar has been disolved. Add 2 tablespoons of honey and a slice of lemon peel. Turn the fire on low and let it simmer for 5-10 minutes. Set aside away from heat to let it cool and pour squeezed lemon juice on top.  
 
-<img width="160" height="120" alt="gal_custard_ready_499" src="https://gist.github.com/user-attachments/assets/fc6286d0-14d7-45d2-8205-31df89c3d80d" />
+<img width="160" height="120" alt="gal_custard_ready_499" src="https://github.com/user-attachments/assets/9f1893dd-6502-4638-b0a9-4e7f0459eea0" />
 
 ### STEP 2) Prepare the filling
 
@@ -138,13 +136,13 @@ Count the fillo sheets and set half for the botom and half for the top. Melt 1/2
 
 Put the first fillo sheet on the tray brushing over it with more butter. Add the next sheet and brush butter over it again. Repeat the process until half of the sheets are layed out on the bottom with melted butter brushed over each one.
 
-<img width="160" height="132" alt="gal_tuck_edges1_499" src="https://gist.github.com/user-attachments/assets/a7a13d92-7e34-451a-acd7-14b1b2efc575" />
+<img width="160" height="132" alt="gal_tuck_edges1_499" src="https://github.com/user-attachments/assets/15a9e6cd-4dec-4e13-8698-36c39b010bea" />
 
 Pour the filling over the sheets and fold over the top sheet over it, brushing it with butter so the next sheet sticks to it. Then add the next sheet brushing it with butter again and keep going until all the bottom sheets have been done.
  
 Continue by setting the top sheets one by one brushing lightly with butter one after another. Then fold the top sheets over buttering again until there are no sheets haging out from the sides of the pan.
 
-<img width="160" height="144" alt="gal_sec_finish_499" src="https://gist.github.com/user-attachments/assets/b360d67b-89ee-45ac-81d0-39cfbb5d1d3c" />
+<img width="160" height="144" alt="gal_sec_finish_499" src="https://github.com/user-attachments/assets/06b621d9-7bb9-4b75-8e11-9240a7100026" />
 
 ### STEP 4) Cut the pieces, bake, pour syrup and eat!
 
@@ -154,19 +152,19 @@ The oven should be hot enough now. Place and cook for 30-40 minutes or until gol
 
 Pour the syrup over the hot cake making sure it goes on the sides and between the pieces, this will be soaked up creating a thick sweet crust. At this point you may also add some cinnamon powder on top for decoration. Let it cool before eating. 
 
-<img width="160" height="156" alt="gal_syrup_499" src="https://gist.github.com/user-attachments/assets/7daa08a2-4724-4c17-a440-e03368db1c4a" />
+<img width="160" height="156" alt="gal_syrup_499" src="https://github.com/user-attachments/assets/5fed7d75-d403-40ea-b047-93f17c9cf433" />
 
 Prepare a cup of delicious espresso and.. ATTACK!
 
 ## Gravalax
 
-<img width="240" height="159" alt="Gravalax" src="https://gist.github.com/user-attachments/assets/da56e889-be57-47c7-b7e2-05f103af7e9d" />
+<img width="240" height="159" alt="Gravalax" src="https://github.com/user-attachments/assets/2ed32dc4-ed33-45f5-ae03-21513c6d4575" />
 
-Serves 6 people.
+_Serves 6 people._
 
 ### Total Cooking Time: Several Days
 
-This is my mum''s recipe for cured salmon. It tastes a bit like smoked salmon but sweeter and with a strong taste of dill and pepper.
+This is my mum's recipe for cured salmon. It tastes a bit like smoked salmon but sweeter and with a strong taste of dill and pepper.
 
 **Ingredients:**
 
