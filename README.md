@@ -33,4 +33,48 @@ These blueberry friands are great, a bit like muffins but more solid and stocky.
 4. Divide the batter between the tins. Sprinkle a handful of blueberries over each cake and bake for 15-20min or until just firm to the touch and golden brown. Cool in the tins for 5 min, then turn out and cool on a wire rack.
 5. To serve, dust lightly with icing sugar
 
+![17674398312946138155213120901288](https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670)
 
+## Baked Blueberry Cheesecake 
+
+Serves 8 people.
+
+### Total Cooking Time: 1½ hours
+
+This is an old recipe for baked cheesecake I''ve had lying around for ages.
+
+### Ingredients (filling):
+
+*   500g Cream Cheese, melted
+*   1 cup White Sugar
+*   1/2 cup Self Raising Flour
+*   1 Tin of blueberries
+*   3 Tablespoons of Butter, melted
+*   Finely grated rind for 1 lemon
+*   1 egg
+*   1 shot of port/cognac/red wine
+*   pinch of salt
+
+### Ingredients (base):
+
+*   120g biscuits, crumbed
+*   2 tablespoons of butter, melted
+*   2 tablespoons of hot water
+
+### PREPARATION
+
+Use the microwave or pan to melt the cream cheese then pour into a bowl with all the sugar, add beaten egg and melted butter. Mix well.
+
+Add lemon rind, port, and pinch of salt. Mix well.
+
+Add flour slowly while stirring cake mix.
+
+Crush cookies into little crumbs using a glass and a large bowl, add melted butter and hot water. Mix well until crumbs are moist.
+
+Press crumbs into base of cake tin.
+
+Just before pouring cheesecake mix into tin, add drained blueberries mix over the top and stir into the mix. Pour over cookie crumbs on tin.
+
+Bake in oven at 160-180 deg for 50 mins or until top starts turning brown. Turn oven off and leave cake in oven for another 10-15 min.
+
+Refrigerate and ATTACK!
