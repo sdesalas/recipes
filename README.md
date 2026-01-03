@@ -39,7 +39,7 @@ _Serves 8 people._
 
 ### Total Cooking Time: 1½ hours
 
-This is an old recipe for baked cheesecake I''ve had lying around for ages.
+This is an old recipe for baked cheesecake I've had lying around for ages.
 
 ### Ingredients (filling):
 
