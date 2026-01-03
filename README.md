@@ -61,11 +61,11 @@ This is an old recipe for baked cheesecake I''ve had lying around for ages.
 
 ### PREPARATION
 
-Use the microwave or pan to melt the cream cheese then pour into a bowl with all the sugar, add beaten eggs and melted butter. Mix well.
+Use microwave to soften the cream cheese then pour into a bowl with all the sugar, add beaten eggs and melted butter. Mix well.
 
 Add lemon rind, port, and pinch of salt. Mix well.
 
-Add flour slowly while stirring cake mix.
+Sift flour slowly while stirring cake mix.
 
 Crush cookies into little crumbs using a glass and a large bowl, add melted butter and hot water. Mix well until crumbs are moist.
 
@@ -73,7 +73,9 @@ Press crumbs into base of cake tin.
 
 Just before pouring cheesecake mix into tin, add blueberries over the top and stir gently into the mix. Pour over cookie crumbs on tin.
 
-Bake in oven at 160-180 deg for 50 mins or until top starts turning brown. Turn oven off and leave cake in oven for another 10-15 min.
+Bake in oven at 180-200 deg for 50 mins or until top starts turning brown. 
+
+Turn oven off and leave cake in oven for another 10-20 min.
 
 Refrigerate and ATTACK!
 
