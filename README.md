@@ -45,15 +45,15 @@ This is an old recipe for baked cheesecake I''ve had lying around for ages.
 
 ### Ingredients (filling):
 
-*   500g Cream Cheese, melted
+*   600g Cream Cheese, melted
 *   1 cup White Sugar
-*   1/2 cup Self Raising Flour
-*   1 Tin of blueberries
+*   2 eggs
 *   3 Tablespoons of Butter, melted
 *   Finely grated rind for 1 lemon
-*   1 egg
 *   1 shot of port/cognac/red wine
 *   pinch of salt
+*   1/2 cup Self Raising Flour
+*   1 Cup of blueberries
 
 ### Ingredients (base):
 
@@ -63,7 +63,7 @@ This is an old recipe for baked cheesecake I''ve had lying around for ages.
 
 ### PREPARATION
 
-Use the microwave or pan to melt the cream cheese then pour into a bowl with all the sugar, add beaten egg and melted butter. Mix well.
+Use the microwave or pan to melt the cream cheese then pour into a bowl with all the sugar, add beaten eggs and melted butter. Mix well.
 
 Add lemon rind, port, and pinch of salt. Mix well.
 
@@ -73,7 +73,7 @@ Crush cookies into little crumbs using a glass and a large bowl, add melted butt
 
 Press crumbs into base of cake tin.
 
-Just before pouring cheesecake mix into tin, add drained blueberries mix over the top and stir into the mix. Pour over cookie crumbs on tin.
+Just before pouring cheesecake mix into tin, add blueberries over the top and stir gently into the mix. Pour over cookie crumbs on tin.
 
 Bake in oven at 160-180 deg for 50 mins or until top starts turning brown. Turn oven off and leave cake in oven for another 10-15 min.
 
