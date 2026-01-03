@@ -33,7 +33,7 @@ These blueberry friands are great, a bit like muffins but more solid and stocky.
 4. Divide the batter between the tins. Sprinkle a handful of blueberries over each cake and bake for 15-20min or until just firm to the touch and golden brown. Cool in the tins for 5 min, then turn out and cool on a wire rack.
 5. To serve, dust lightly with icing sugar
 
-![17674398312946138155213120901288](https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670)
+<img width="250" src="https://github.com/user-attachments/assets/78776f03-ec4a-41b8-b043-af08dcef0670" />
 
 ## Baked Blueberry Cheesecake 
 
